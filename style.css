@@ -1,0 +1,12 @@
+html,
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+
+canvas {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+ }
